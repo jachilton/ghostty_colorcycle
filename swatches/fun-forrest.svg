@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="40">
+  <rect x="0" y="0" width="40" height="40" rx="4" fill="#251200"/>
+  <rect x="42" y="0" width="40" height="40" rx="4" fill="#dec165"/>
+  <rect x="84" y="0" width="24" height="40" rx="4" fill="#e5591c"/>
+  <rect x="114" y="0" width="24" height="40" rx="4" fill="#000000"/>
+  <rect x="140" y="0" width="24" height="40" rx="4" fill="#d6262b"/>
+  <rect x="166" y="0" width="24" height="40" rx="4" fill="#919c00"/>
+  <rect x="192" y="0" width="24" height="40" rx="4" fill="#be8a13"/>
+  <rect x="218" y="0" width="24" height="40" rx="4" fill="#4699a3"/>
+  <rect x="244" y="0" width="24" height="40" rx="4" fill="#8d4331"/>
+  <rect x="270" y="0" width="24" height="40" rx="4" fill="#da8213"/>
+  <rect x="296" y="0" width="24" height="40" rx="4" fill="#ddc265"/>
+  <rect x="322" y="0" width="24" height="40" rx="4" fill="#7f6a55"/>
+  <rect x="348" y="0" width="24" height="40" rx="4" fill="#e55a1c"/>
+  <rect x="374" y="0" width="24" height="40" rx="4" fill="#bfc65a"/>
+  <rect x="400" y="0" width="24" height="40" rx="4" fill="#ffcb1b"/>
+  <rect x="426" y="0" width="24" height="40" rx="4" fill="#7cc9cf"/>
+  <rect x="452" y="0" width="24" height="40" rx="4" fill="#d26349"/>
+  <rect x="478" y="0" width="24" height="40" rx="4" fill="#e6a96b"/>
+  <rect x="504" y="0" width="24" height="40" rx="4" fill="#ffeaa3"/>
+</svg>
